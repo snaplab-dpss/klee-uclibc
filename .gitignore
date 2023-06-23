@@ -24,7 +24,6 @@ lib/
 
 #Configure files
 Makefile.klee
-.config
 config.log
 .config.old
 
